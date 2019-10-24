@@ -1,0 +1,11 @@
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\bin\Debug\netcoreapp2.2\pLANETAS.deps.json
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\bin\Debug\netcoreapp2.2\pLANETAS.runtimeconfig.json
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\bin\Debug\netcoreapp2.2\pLANETAS.runtimeconfig.dev.json
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\bin\Debug\netcoreapp2.2\pLANETAS.dll
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\bin\Debug\netcoreapp2.2\pLANETAS.pdb
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\obj\Debug\netcoreapp2.2\pLANETAS.csprojAssemblyReference.cache
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\obj\Debug\netcoreapp2.2\pLANETAS.csproj.CoreCompileInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\obj\Debug\netcoreapp2.2\pLANETAS.AssemblyInfoInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\obj\Debug\netcoreapp2.2\pLANETAS.AssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\obj\Debug\netcoreapp2.2\pLANETAS.dll
+C:\Users\46962757875\Documents\Vai se foder\Desafios\pLANETAS\obj\Debug\netcoreapp2.2\pLANETAS.pdb

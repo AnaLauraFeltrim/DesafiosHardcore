@@ -1,0 +1,11 @@
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\bin\Debug\netcoreapp2.2\Gasolina.deps.json
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\bin\Debug\netcoreapp2.2\Gasolina.runtimeconfig.json
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\bin\Debug\netcoreapp2.2\Gasolina.runtimeconfig.dev.json
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\bin\Debug\netcoreapp2.2\Gasolina.dll
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\bin\Debug\netcoreapp2.2\Gasolina.pdb
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\obj\Debug\netcoreapp2.2\Gasolina.csprojAssemblyReference.cache
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\obj\Debug\netcoreapp2.2\Gasolina.csproj.CoreCompileInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\obj\Debug\netcoreapp2.2\Gasolina.AssemblyInfoInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\obj\Debug\netcoreapp2.2\Gasolina.AssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\obj\Debug\netcoreapp2.2\Gasolina.dll
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Gasolina\obj\Debug\netcoreapp2.2\Gasolina.pdb

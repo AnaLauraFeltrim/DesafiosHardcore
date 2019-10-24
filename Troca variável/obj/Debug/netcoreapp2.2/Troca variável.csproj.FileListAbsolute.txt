@@ -1,0 +1,11 @@
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\obj\Debug\netcoreapp2.2\Troca variável.csprojAssemblyReference.cache
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\obj\Debug\netcoreapp2.2\Troca variável.csproj.CoreCompileInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\obj\Debug\netcoreapp2.2\Troca variável.AssemblyInfoInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\obj\Debug\netcoreapp2.2\Troca variável.AssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\bin\Debug\netcoreapp2.2\Troca variável.deps.json
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\bin\Debug\netcoreapp2.2\Troca variável.runtimeconfig.json
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\bin\Debug\netcoreapp2.2\Troca variável.runtimeconfig.dev.json
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\bin\Debug\netcoreapp2.2\Troca variável.dll
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\bin\Debug\netcoreapp2.2\Troca variável.pdb
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\obj\Debug\netcoreapp2.2\Troca variável.dll
+C:\Users\46962757875\Documents\Vai se foder\Desafios\Troca variável\obj\Debug\netcoreapp2.2\Troca variável.pdb
