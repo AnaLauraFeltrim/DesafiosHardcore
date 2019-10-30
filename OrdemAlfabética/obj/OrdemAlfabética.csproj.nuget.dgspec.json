@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\OrdemAlfabética\\OrdemAlfabética.csproj": {}
+    "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\OrdemAlfabética\\OrdemAlfabética.csproj": {}
   },
   "projects": {
-    "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\OrdemAlfabética\\OrdemAlfabética.csproj": {
+    "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\OrdemAlfabética\\OrdemAlfabética.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\OrdemAlfabética\\OrdemAlfabética.csproj",
+        "projectUniqueName": "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\OrdemAlfabética\\OrdemAlfabética.csproj",
         "projectName": "OrdemAlfabética",
-        "projectPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\OrdemAlfabética\\OrdemAlfabética.csproj",
+        "projectPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\OrdemAlfabética\\OrdemAlfabética.csproj",
         "packagesPath": "C:\\Users\\46962757875\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\OrdemAlfabética\\obj\\",
+        "outputPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\OrdemAlfabética\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

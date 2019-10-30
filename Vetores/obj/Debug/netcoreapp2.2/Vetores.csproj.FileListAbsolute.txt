@@ -1,0 +1,11 @@
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\bin\Debug\netcoreapp2.2\Vetores.deps.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\bin\Debug\netcoreapp2.2\Vetores.runtimeconfig.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\bin\Debug\netcoreapp2.2\Vetores.runtimeconfig.dev.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\bin\Debug\netcoreapp2.2\Vetores.dll
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\bin\Debug\netcoreapp2.2\Vetores.pdb
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\obj\Debug\netcoreapp2.2\Vetores.csprojAssemblyReference.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\obj\Debug\netcoreapp2.2\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\obj\Debug\netcoreapp2.2\Vetores.AssemblyInfoInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\obj\Debug\netcoreapp2.2\Vetores.AssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\obj\Debug\netcoreapp2.2\Vetores.dll
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Vetores\obj\Debug\netcoreapp2.2\Vetores.pdb

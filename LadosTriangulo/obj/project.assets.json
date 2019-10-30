@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\LadosTriangulo\\LadosTriangulo.csproj",
+      "projectUniqueName": "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\LadosTriangulo\\LadosTriangulo.csproj",
       "projectName": "LadosTriangulo",
-      "projectPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\LadosTriangulo\\LadosTriangulo.csproj",
+      "projectPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\LadosTriangulo\\LadosTriangulo.csproj",
       "packagesPath": "C:\\Users\\46962757875\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\LadosTriangulo\\obj\\",
+      "outputPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\LadosTriangulo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

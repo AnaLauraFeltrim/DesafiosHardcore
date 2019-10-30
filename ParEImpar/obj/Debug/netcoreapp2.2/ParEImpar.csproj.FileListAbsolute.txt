@@ -1,0 +1,11 @@
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\bin\Debug\netcoreapp2.2\ParEImpar.deps.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\bin\Debug\netcoreapp2.2\ParEImpar.runtimeconfig.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\bin\Debug\netcoreapp2.2\ParEImpar.runtimeconfig.dev.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\bin\Debug\netcoreapp2.2\ParEImpar.dll
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\bin\Debug\netcoreapp2.2\ParEImpar.pdb
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\obj\Debug\netcoreapp2.2\ParEImpar.csprojAssemblyReference.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\obj\Debug\netcoreapp2.2\ParEImpar.csproj.CoreCompileInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\obj\Debug\netcoreapp2.2\ParEImpar.AssemblyInfoInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\obj\Debug\netcoreapp2.2\ParEImpar.AssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\obj\Debug\netcoreapp2.2\ParEImpar.dll
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\ParEImpar\obj\Debug\netcoreapp2.2\ParEImpar.pdb

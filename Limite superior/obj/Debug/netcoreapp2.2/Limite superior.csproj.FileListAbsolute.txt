@@ -1,0 +1,11 @@
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\bin\Debug\netcoreapp2.2\Limite superior.deps.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\bin\Debug\netcoreapp2.2\Limite superior.runtimeconfig.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\bin\Debug\netcoreapp2.2\Limite superior.runtimeconfig.dev.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\bin\Debug\netcoreapp2.2\Limite superior.dll
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\bin\Debug\netcoreapp2.2\Limite superior.pdb
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\obj\Debug\netcoreapp2.2\Limite superior.csprojAssemblyReference.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\obj\Debug\netcoreapp2.2\Limite superior.csproj.CoreCompileInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\obj\Debug\netcoreapp2.2\Limite superior.AssemblyInfoInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\obj\Debug\netcoreapp2.2\Limite superior.AssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\obj\Debug\netcoreapp2.2\Limite superior.dll
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\Limite superior\obj\Debug\netcoreapp2.2\Limite superior.pdb

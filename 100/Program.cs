@@ -5,8 +5,6 @@ namespace _100 {
         static void Main (string[] args) {
             int num = 1;
 
-            Console.WriteLine ("100 primeiros ímpares: ");
-
             for (num = 1; num < 101; num++) {
 
                 System.Console.WriteLine($"{num}");

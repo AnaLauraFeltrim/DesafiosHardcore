@@ -1,0 +1,11 @@
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\bin\Debug\netcoreapp2.2\LadosTriangulo.deps.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\bin\Debug\netcoreapp2.2\LadosTriangulo.runtimeconfig.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\bin\Debug\netcoreapp2.2\LadosTriangulo.runtimeconfig.dev.json
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\bin\Debug\netcoreapp2.2\LadosTriangulo.dll
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\bin\Debug\netcoreapp2.2\LadosTriangulo.pdb
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\obj\Debug\netcoreapp2.2\LadosTriangulo.csprojAssemblyReference.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\obj\Debug\netcoreapp2.2\LadosTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\obj\Debug\netcoreapp2.2\LadosTriangulo.AssemblyInfoInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\obj\Debug\netcoreapp2.2\LadosTriangulo.AssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\obj\Debug\netcoreapp2.2\LadosTriangulo.dll
+C:\Users\46962757875\Documents\Vai se foder\DesafiosHardcore\LadosTriangulo\obj\Debug\netcoreapp2.2\LadosTriangulo.pdb

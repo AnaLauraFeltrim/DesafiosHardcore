@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\IMC\\IMC.csproj",
+      "projectUniqueName": "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\IMC\\IMC.csproj",
       "projectName": "IMC",
-      "projectPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\IMC\\IMC.csproj",
+      "projectPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\IMC\\IMC.csproj",
       "packagesPath": "C:\\Users\\46962757875\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\Desafios\\IMC\\obj\\",
+      "outputPath": "C:\\Users\\46962757875\\Documents\\Vai se foder\\DesafiosHardcore\\IMC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
